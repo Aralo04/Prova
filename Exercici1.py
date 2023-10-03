@@ -10,4 +10,4 @@ class Neurona():
         i = 0
         self.total = [3, 1]
         for i in range(3):
-            self.total
+            self.total = []
